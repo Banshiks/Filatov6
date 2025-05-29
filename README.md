@@ -60,7 +60,7 @@
 
 ![](image/logstashnginx.png)
 
-![](9image/logstashconf.png)
+![](image/logstashconf.png)
 ---
 
 ### Задание 4. Filebeat. 
