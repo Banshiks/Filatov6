@@ -58,6 +58,9 @@
 
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.*
 
+![](image/logstashnginx.png)
+
+![](9image/logstashconf.png)
 ---
 
 ### Задание 4. Filebeat. 
